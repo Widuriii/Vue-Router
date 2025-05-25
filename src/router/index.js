@@ -3,7 +3,6 @@ import Dashboard from '../views/Dashboard.vue';
 import Shop from '../views/Shop.vue';
 import Tutorial from '../views/Tutorial.vue';
 import AboutUs from '../views/AboutUs.vue';
-import { Component } from "react";
 
 const routes = [
     {
